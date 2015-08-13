@@ -38,6 +38,11 @@ div.ellipsis
     text-overflow:ellipsis;
     border: 1px solid #000000;
 }
+.ptExample
+{
+    width: 160pt;
+    height:140pt;
+}
 .perCent
 {
     font-size: 100%;
